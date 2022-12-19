@@ -42,12 +42,5 @@ It's just a simple web AI using OpenAI GPT-3 and flask (Python)
 
 You can change your AI, you need to change the `conversation` and add or delete what you want to be your real AI
 
-You can update the picture on main.css ` <img src="{{ url_for('static', filename='manga.png') }}" >`
  
-
-![OpenAI](https://i.blogs.es/0dbd39/openai-gpt-3/1366_2000.jpg)
-
-## Authors
-
-- [@Antoine Smet](https://github.com/AntoineSmet/)
 
